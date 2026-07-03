@@ -10,8 +10,8 @@ Team WNG berfokus untuk membangun aplikasi yang mampu dikembangkan sampai produc
 
 | Dokumen | Keterangan |
 | --- | --- |
-| [system-list.md](system-list.md) | List system/aplikasi yang dimiliki atau dikelola oleh WNG. |
-| [architecture.md](architecture.md) | Catatan arsitektur, Docker, dan struktur folder server. |
+| [system-list.md](../system-list.md) | List system/aplikasi yang dimiliki atau dikelola oleh WNG. |
+| [architecture.md](../architecture.md) | Catatan arsitektur, Docker, dan struktur folder server. |
 
 ## 3. Deployment Flow
 
